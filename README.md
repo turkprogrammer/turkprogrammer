@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @turkprogrammer
+- 👋 Hi, I’m @turkprogrammero
 - 👀 I’m interested in PHP Backend
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Symfony/Laravel
+- 💞️ I’m looking to collaborate on Symfony/Laravel/Go
 - 📫 How to reach me via Telegram: https://t.me/turanellervarolsun
 
 <!---
