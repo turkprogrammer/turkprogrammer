@@ -20,9 +20,8 @@
 
 #### **Backend, Data & ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,php,symfony,mysql,postgres,redis,mongodb,clickhouse,kafka,ai,py" alt="Backend & ML Stack" />
+  <img src="https://skillicons.dev/icons?i=go,php,symfony,mysql,postgres,redis,mongodb,clickhouse,kafka,ai" alt="Backend & ML Stack" />
 </p>
-<i>* Иконка AI включает работу с Ollama, Llama 3.3 и Random Forest моделями.</i>
 
 #### **Infrastructure**
 <p align="left">
