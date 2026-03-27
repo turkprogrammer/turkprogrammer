@@ -34,15 +34,13 @@
 * **Stable ID Service:** Идентификация пользователей (**Random Forest** + Kafka). Результат: **92% F1-score**, сокращение дубликатов на **35%**.
 * **Geo-mapping AI:** Маппинг 3.1M+ записей через **Llama 3.3 / Ollama**. Результат: **+150%** точности, снижение затрат на API на **70%**.
 * **Bundle ID Classifier:** Трехуровневая фильтрация (Regex → Cache → AI Fallback). Результат: **8x ускорение** обработки (**850 эд/сек**).
-* **LogT (Open Source):** Высокопроизводительный TUI лог-эксплорер на Go (**300k+ строк/сек**).
 
 ---
 
-### 📈 Статистика
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turkprogrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkprogrammer&layout=compact&theme=tokyonight&hide=html,css,javascript" />
-</p>
+### 🔭 Open Source & Side Projects
+* **[LogT](https://github.com/turkprogrammer/logt)** — Высокопроизводительный TUI лог-эксплорер на Go (**300k+ строк/сек**, Fuzzy search, JSON tree).
+* **[RAG System](https://github.com/turkprogrammer/RAG-)** — Реализация Retrieval-Augmented Generation для работы с базой знаний и LLM (Ollama/OpenAI).
+* **[Task Estimator](https://github.com/turkprogrammer/task-estimator)** — Сервис оценки трудозатрат на базе **Random Forest**, обучающийся на исторических данных.
 
 ---
 
