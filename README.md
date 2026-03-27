@@ -1,5 +1,5 @@
-# 👋 Hi, i am @turkprogrammer
-### Senior Backend Architect | High-Load | Golang & PHP Expert | ML-Inference Systems
+# 👋 Привет, я @turkprogrammer
+### Senior Backend Architect | High-Load Systems | Golang & PHP Expert
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=turkprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
@@ -7,57 +7,38 @@
 
 ---
 
-### 💻 Ключевая экспертиза
-Более 18 лет в индустрии. Специализируюсь на проектировании отказоустойчивых, высоконагруженных систем (RPS/Latency оптимизация) и внедрении ML-моделей в продакшен-среды. 
+### 💻 Обо мне
+Более 18 лет в бэкенд-разработке. Специализируюсь на проектировании отказоустойчивых систем, оптимизации RPS/Latency и внедрении ML-моделей в высоконагруженные продакшен-среды.
 
-- 🛠 **Архитектура:** Микросервисы, Event-driven (Kafka), High-Load API, Big Data.
-- 🚀 **Производительность:** Профилирование, устранение бутылочных горлышек, оптимизация работы с БД.
+- 🛠 **Main Focus:** Микросервисная архитектура, Event-driven (Kafka), Big Data (ClickHouse).
 - 🧠 **ML-Inference:** Интеграция LLM (Llama 3.3, DeepSeek) и классических моделей (Random Forest) для автоматизации бизнес-логики.
+- 🚀 **Performance:** Профилирование, устранение бутылочных горлышек и оптимизация работы с БД.
 
 ---
 
 ### 🛠 Технологический стек
 
-#### **Backend Core**
+#### **Backend & Data**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,php,symfony,mysql,postgres,redis,mongodb,clickhouse,kafka" alt="Backend Stack" />
 </p>
 
-#### **Infrastructure & DevOps**
+#### **Infrastructure**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,githubactions" alt="Infra Stack" />
 </p>
 
 ---
 
-### 🌟 Избранные проекты и кейсы (Advertising Analytics)
-
-Я спроектировал и реализовал архитектуру **4-х ML-сервисов** для глубокой аналитики данных:
-
-#### **1. Geo-mapping & Normalization (Llama 3.3-70B)**
-AI-маппинг городов из 5+ источников с многоуровневым файловером.
-* **Результат:** Успешность маппингов **+150%** (до 35-40%), покрытие регионов **90%**, снижение стоимости API на **70%**. Обработано **3.1M+** записей.
-
-#### **2. Bundle ID Classification (Llama + ClickHouse)**
-Трехуровневая система классификации: Regex (<0.1ms) → ClickHouse Cache (~1ms) → AI Fallback (~800ms).
-* **Результат:** **8x ускорение** обработки (**760-850 эд/сек**), автоматическая фильтрация веб-доменов с экономией **60-70%** токенов API.
-
-#### **3. Domain Classification (IAB Taxonomy)**
-Категоризация доменов (IAB 3.1) с Whitelist предфильтрацией (85K+ доменов без AI).
-* **Результат:** Обработано **416K+** доменов, **30% прирост** производительности, **100% точность** whitelist классификации.
-
-#### **4. Stable ID Identification (Event-driven ML)**
-Самый сложный проект: Random Forest модель для предсказания ID пользователей (Kafka + ProcessManager).
-* **Результат:** **92% F1-score**, сокращение дублирования пользователей на **35%**. Реализованы отказоустойчивость, многоуровневое кэширование и механизм версионирования/отката моделей без перезапуска.
+### 🌟 Избранные кейсы (High-Load & ML)
+* **Stable ID Service:** Идентификация пользователей (Random Forest + Kafka). Результат: **92% F1-score**, сокращение дубликатов на **35%**.
+* **Geo-mapping AI:** Маппинг 3.1M+ записей через Llama 3.3. Результат: **+150%** точности, снижение затрат на API на **70%**.
+* **Bundle ID Classifier:** Трехуровневая фильтрация (Regex → Cache → AI). Результат: **8x ускорение** обработки (**850 эд/сек**).
+* **LogT (Open Source):** Высокопроизводительный TUI лог-эксплорер на Go (**300k+ строк/сек**).
 
 ---
 
-### 🔭 Open Source
-- **[LogT](https://github.com/turkprogrammer/logt)** — высокопроизводительный TUI лог-эксплорер на Go (Fuzzy search, JSON tree, 300k+ lines/sec).
-
----
-
-### 📉 Статистика
+### 📈 Статистика
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=turkprogrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turkprogrammer&layout=compact&theme=tokyonight&hide=html,css,javascript" />
