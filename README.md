@@ -40,6 +40,7 @@
 ### 🛠 System Utilities & TUI (Golang)
 * **[SQL-Top](https://github.com/turkprogrammer/sql-top)** — **"The htop for Databases"**. Профайлер PostgreSQL/MySQL/ClickHouse в реальном времени. Безопасный EXPLAIN, анализ wait events и дельта-подсветка новых запросов.
 * **[LogT](https://github.com/turkprogrammer/logt)** — **"The Swiss Army Knife for Logs"**. Высокопроизводительный эксплорер логов (**300k+ строк/сек**). Легковесная альтернатива `lnav` с мгновенной JSON Path фильтрацией.
+* **[mt](https://github.com/turkprogrammer/mt)** — **"The Go Runtime Tuner"**. Тюнер параметров Go runtime в реальном времени. Управление `GOGC`, `GOMEMLIMIT`, `GOMAXPROCS`, `debug.SetGCPercent` и `SetPanicOnFault` для тонкой оптимизации сервиса.
 
 ---
 
