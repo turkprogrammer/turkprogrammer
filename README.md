@@ -45,7 +45,7 @@
 ---
 
 ### 🔭 Open Source & AI Projects
-* **[Fraud Detection Engine](https://github.com/turkprogrammer/Fraud-Detection-Engine)** — **Pro-grade Anti-fraud for High-load**. API для real-time скоринга транзакций в финтехе.
+* **[Fraud Detection Engine](https://turkprogrammer.github.io/fraud-engine-docs/)** — **Pro-grade Anti-fraud for High-load**. API для real-time скоринга транзакций в финтехе.
     * **ML Engine:** Собственная реализация **Random Forest на чистом Go** (без внешних зависимостей).
     * **Performance:** Итеративный обход деревьев (stack overflow protection) и строгий bounds checking.
     * **Optimization:** LRU-кэширование результатов с поддержкой **hot-reload** весов через `fsnotify`.
