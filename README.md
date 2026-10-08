@@ -32,10 +32,10 @@
 
 ### 🖥️ Desktop & System Tools (Go + GTK)
 
-- **[CoverCraft](https://github.com/turkprogrammer/covercraft)** — Генератор сопроводительных писем для отклика на вакансии.  
+- **[CoverCraft](https://github.com/turkprogrammer/covercraft)** — Генератор сопроводительных писем с fit-оценкой на коде (не LLM), гиперперсонализацией из вашего профиля и open-source кодом под MIT. Нативное окно (WebKit2GTK) + Go-бэкенд, один бинарник, настройки в ~/.config/covercraft/settings.json, контекст кандидата в context/*.md.  
   * **Архитектура:** Нативное GUI на WebKit2GTK + Go-бэкенд.  
   * **Функционал:** Интеграция с LLM для персонализации писем, шаблоны под разные роли (Backend, ML, DevOps).  
-  * **UX:** Минималистичный интерфейс, быстрая генерация, экспорт в Markdown/DOCX.
+  * **UX:** Минималистичный интерфейс, быстрая генерация.
 
 - **[vpnctl](https://github.com/turkprogrammer/vpnctl)** — Менеджер VPN-подключений для Ubuntu.  
   * **Поддержка:** AmneziaWG, WireGuard.  
